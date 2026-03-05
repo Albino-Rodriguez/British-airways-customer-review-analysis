@@ -1,6 +1,6 @@
 # British Airways Customer Review Dashboard (Tableau)
 
-![Dashboard Preview](visuals/dashboard-preview-twb.jpg)
+![Dashboard Preview](visuals/Dashboard-Preview-twb.jpg)
 
 ## Overview
 
